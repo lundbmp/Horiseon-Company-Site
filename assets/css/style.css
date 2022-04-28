@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header Section */
+/* Banner Seciton */
 
 .header {
     padding: 20px;
@@ -25,6 +25,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Navigation Section */
 
 .header nav {
     padding-top: 15px;
@@ -48,9 +50,13 @@ a {
     text-decoration: none;
 }
 
+/* Font size for page text */
+
 p {
     font-size: 16px;
 }
+
+/* Initial site image/Jumbotron*/
 
 .hero {
     height: 800px;
@@ -60,6 +66,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* floating for the sub-contents */ 
 
 .float-left {
     float: left;
@@ -71,7 +79,8 @@ p {
     margin-left: 25px;
 }
 
-/* Content and subcontent section */
+/* Content and sub-content section */
+
 .content {
     width: 75%;
     display: inline-block;
@@ -97,6 +106,7 @@ p {
 }
 
 /* Benefits section */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
