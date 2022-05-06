@@ -6,6 +6,8 @@
 This project contains the company site for Horiseon to help advertise our services. 
 This site will advertise what we have to offer to the consumer; offering talking points of our Seach Engine Optimization, Online Reputation Managment, and Social Media Marketing.
 
+There were adjustments made to the HTML tags to utilize HTML Semantic Tags, as well as adding descriptive comments to the style.css sheet
+
 ## Setup
 This project can be locally ran by viewing index.html through a web browser. Otherwise, it is hosted at https://lundbmp.github.io/Horiseon-Company-Site/
 

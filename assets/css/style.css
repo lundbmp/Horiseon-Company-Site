@@ -1,14 +1,15 @@
+/*Setting padding and box size for the entire web page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*Setting base background color for the entire visible webpage*/
 body {
     background-color: #d9dcd6;
 }
 
-/* Banner Seciton */
+/* Adding color and styling to the navigation and top banner. */
 
 .header {
     padding: 20px;
@@ -16,6 +17,8 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
+
+/*adding styling to the HORISEON in the banner*/
 
 .header h1 {
     display: inline-block;
@@ -50,13 +53,13 @@ a {
     text-decoration: none;
 }
 
-/* Font size for page text */
+/* Font size for sentions contents, benefits, and footer */
 
 p {
     font-size: 16px;
 }
 
-/* Initial site image/Jumbotron*/
+/* Styling for the HERO image under the navigation banner */
 
 .hero {
     height: 800px;
@@ -67,7 +70,7 @@ p {
     background-position: center;
 }
 
-/* floating for the sub-contents */ 
+/* floating used by the sub-contents */ 
 
 .float-left {
     float: left;
@@ -79,7 +82,7 @@ p {
     margin-left: 25px;
 }
 
-/* Content and sub-content section */
+/* Styling of the content section, affecting: search engine optimization, online reputation management, and social media marketing */
 
 .content {
     width: 75%;
@@ -105,7 +108,7 @@ p {
     font-size: 36px;
 }
 
-/* Benefits section */
+/* Styling of the benefits section, affecting the side banner left of the content section */
 
 .benefits {
     margin-right: 20px;
@@ -134,7 +137,7 @@ p {
     max-width: 150px;
 }
 
-/* Footer Section */
+/* centering and styling the pages company info at the bottom of the page */
 
 footer {
     padding: 30px;
